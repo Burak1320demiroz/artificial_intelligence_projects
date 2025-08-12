@@ -3,10 +3,4 @@
 - İmage Processing
 - LLM Development
 - Machine Learning
-- Ros Noetic
-    - CMakeLists.txt
-    - Gazebo
-    - launch_files
-    - msg_dosyaları
-    - package.xml
-    - RViz
+- Notes
