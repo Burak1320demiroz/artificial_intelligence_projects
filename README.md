@@ -1,6 +1,31 @@
 # Artificial Intelligence Projects
 - Deep Learning
+    - Yapay Sinir Ağları (Artificial Neural Networks - ANN)
+        - Temel yapı 
+        - Aktivasyon fonksiyonları 
+        - Kayıp fonksiyonları (loss functions) 
+        - Optimizasyon algoritmaları (Adam, SGD).
+    - Evrişimli Sinir Ağları (Convolutional Neural Networks - CNN)
+    - Tekrarlayan Sinir Ağları (Recurrent Neural Networks - RNN, LSTM, GRU)
+    - Transformer Mimarisi
 - İmage Processing
+    - Tanım
 - LLM Development
+    - Tanım
 - Machine Learning
+    - Gözetimli Öğrenme (Supervised Learning) 
+        - Lineer Regresyon 
+        - Lojistik Regresyon 
+        - Destek Vektör Makineleri (SVM) 
+        - Karar Ağaçları (Decision Trees) 
+        - Random Forests 
+        - Gradient Boosting (XGBoost, LightGBM)
+    - Gözetimsiz Öğrenme (Unsupervised Learning) 
+        - Kümeleme (K-Means) 
+        - Boyut indirgeme (PCA).
+    - Model Değerlendirme Metrikleri: 
+        - Doğruluk (Accuracy) 
+        - Kesinlik (Precision) 
+        - Duyarlılık (Recall) F1 skoru 
+        - ROC eğrisi
 - Notes
