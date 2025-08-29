@@ -1,5 +1,8 @@
 # Artificial Intelligence Projects
 - Deep Learning
+    - TensorFlow
+    - PyTorch
+    - Keras
     - Yapay Sinir Ağları (Artificial Neural Networks - ANN)
         - Temel yapı 
         - Aktivasyon fonksiyonları 
@@ -10,9 +13,10 @@
     - Transformer Mimarisi
 - İmage Processing
     - Tanım
-- LLM Development
+- Large Language Models Development
     - Tanım
 - Machine Learning
+    - Scikit-learn
     - Gözetimli Öğrenme (Supervised Learning) 
         - Lineer Regresyon 
         - Lojistik Regresyon 
@@ -28,4 +32,3 @@
         - Kesinlik (Precision) 
         - Duyarlılık (Recall) F1 skoru 
         - ROC eğrisi
-- Notes
